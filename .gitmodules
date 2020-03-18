@@ -1,0 +1,3 @@
+[submodule "jstk"]
+	path = jstk
+	url = https://github.com/sikoried/jstk
